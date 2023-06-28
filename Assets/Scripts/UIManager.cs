@@ -5,14 +5,14 @@ using UnityEngine;
 public class UIManager : MonoBehaviour
 {
     // Controlar la información de la UI
-    void Start()
-    {
-        
-    }
+    
+    public List<GameObject> objectsList;
+    public List<string> textList;
+    
 
-    // Update is called once per frame
-    void Update()
+    public void SelectObject()
     {
         
     }
+    
 }
