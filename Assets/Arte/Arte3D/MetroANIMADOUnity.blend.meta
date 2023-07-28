@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: e3e410413bcc8814187c6ea20a947184
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Recorrido
+      takeName: Scene
+      internalID: -623603649343465320
+      firstFrame: 10
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: MetroANIMADOUnity(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.001
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -0, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.002
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -31.234383, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.003
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 31.305077, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.006
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 0.1490612, y: 16.425379, z: 0.012871504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.001
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 0.1490612, y: 17.536406, z: -0.00029844046}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 0.1490612, y: 17.536406, z: -0.00029844046}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.005
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -92.45802, y: 16.425379, z: 0.012871504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.007
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -92.62888, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.008
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -123.863266, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.009
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -61.323807, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.011
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -92.62888, y: 4.4260716, z: -15.924259}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.012
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -92.47982, y: 13.997211, z: 0.012871504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.003
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -92.47982, y: 17.536406, z: -0.00029844046}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.014
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 92.51333, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.015
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 61.278946, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.016
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 123.818405, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.017
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 92.51333, y: 4.4260716, z: 5}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.020
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 92.66239, y: 16.425379, z: 0.012871504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.004
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 92.66239, y: 17.536406, z: -0.00029844046}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.005
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 92.66239, y: 17.536406, z: -0.00029844046}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.021
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 61.388466, y: 16.425379, z: 0.012871504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.004
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -31.17971, y: 16.425379, z: 0.012871504}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Empty
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -12.5173645, y: 17.663864, z: 62.386436}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NurbsPath
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: -341.64142, y: 20, z: 10.941805}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Vag\xF3n2"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 245.69469, y: 25.266874, z: -384.5419}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n3"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 247.64781, y: 25.266874, z: -409.9755}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n4"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 249.60094, y: 25.266874, z: -435.4091}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n5"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 251.55406, y: 25.266874, z: -461.01245}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 243.74059, y: 25.266874, z: -359.10782}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n.001"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 243.78796, y: 25.266874, z: -359.10782}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n.002"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 243.78796, y: 25.266874, z: -359.10782}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n.003"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 243.78796, y: 25.266874, z: -359.10782}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: "Vag\xF3n6.002"
+      parentName: MetroANIMADOUnity(Clone)
+      position: {x: 253.50719, y: 25.266874, z: -486.85913}
+      rotation: {x: -0.70662135, y: -0.0261981, z: -0.0261981, w: 0.7066212}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
